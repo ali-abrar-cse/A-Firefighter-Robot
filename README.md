@@ -1,4 +1,4 @@
-# A-Firefighter-Robot
+# A Firefighter Robot
 
 A Firefighting is an important job but it is very dangerous occupation. 
 Due to that, Robots are designed to find a fire, before it rages out of control. 
